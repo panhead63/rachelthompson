@@ -12,7 +12,6 @@
 
 ### Skills 
 <p align="left"> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></p> 
-<img src="![JS](https://github.com/panhead63/rachelthompson/assets/87744145/77fe1829-c864-4bb9-b514-4fc6098a9f3d)
-" alt="Flowers in Chania">
+<img src="JS.png" alt="CodCademy Courses">
 
 ### 
