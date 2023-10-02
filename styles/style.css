@@ -1,0 +1,23 @@
+.maintxt {
+  position: relative;
+  margin-top: 4rem;
+  margin-bottom: 8rem;
+}
+.maintxt > img,
+.overlay-text {
+  position: absolute;
+}
+
+.img {
+  width: 250px;
+  
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
+}
