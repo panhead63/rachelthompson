@@ -23,8 +23,8 @@ body {
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  margin-top: 4rem;
-  margin-bottom: 4rem;
+  margin-top: 8rem;
+  margin-bottom: 8rem;
   text-align: center;
   border-style: solid;
 }
