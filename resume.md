@@ -1,4 +1,4 @@
-# Hi, :👋 My name is Rachel Thompson
+# Hi, 👋 My name is Rachel Thompson
 
 ## I am a CIS major
 
