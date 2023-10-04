@@ -1,3 +1,11 @@
+body {
+  font-family: "Sofia", sans-serif;
+  font-size: 30px;
+  text-shadow: 3px 3px 3px #ababab;
+  background-color: lightgrey;
+  }
+
+
 .maintxt {
   position: relative;
   margin-top: 4rem;
@@ -11,6 +19,13 @@
 .img {
   width: 250px;
   
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
 }
 
 .footer {
