@@ -20,7 +20,6 @@
 - Alpha https://codepen.io/panhead63/full/abPbOOg
 - Charlie https://panhead63.github.io/probable-octo-engine-charlie/
 - Delta https://panhead63.github.io/friendly-octo-guide-delta/
-- Echo https://panhead63.github.io/friendly-octo-guide-delta/
 
 ### Socials
 <p align="left"> <a href="https://codepen.io/panhead63" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://github.com/panhead63" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rachel-thompson-082639294/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
