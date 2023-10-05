@@ -46,3 +46,9 @@ ul li {
   color: black;
   text-align: center;
 }
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
