@@ -4,7 +4,7 @@
 
 - 🌎 I'm based in Sheffield, Alabama
 - 📧 You can contact me at rt0450699@gmail.com
-- 💻 I'm in my senior year at the University of North Alabama
+- 💻 I've graduated from the University of North Alabama
 
  ### Certifications
  - Certified Microsoft Office Specialist, Word 2013
